@@ -1,0 +1,6 @@
+streamlit==1.44.1
+requests==2.31.0
+openai==1.74.0
+openpyxl==3.1.5
+watchdog
+time
