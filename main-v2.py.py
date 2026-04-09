@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 from openai import OpenAI 
 
 # Initialize the OpenAI client
-client = OpenAI(api_key= "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")
+client = OpenAI(api_key= "api-key")
 # Ollama API endpoint
 OLLAMA_API_URL = "http://localhost:11434/api/generate"
 
